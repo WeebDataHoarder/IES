@@ -38,6 +38,7 @@
 
 #include <sys/socket.h>
 #include <sys/ioctl.h>
+#include <sys/uio.h>
 #include <netpacket/packet.h>
 #include <linux/if_ether.h>
 #include <arpa/inet.h>
